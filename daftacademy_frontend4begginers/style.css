@@ -170,6 +170,7 @@ która wymusza wysokość elementu na zadaną wartość lub wyższą.
 */
 .content-section {
     min-height: 100vh;
+    padding: 20px 15px;
 }
 
 .about-section {
@@ -273,6 +274,7 @@ która wymusza wysokość elementu na zadaną wartość lub wyższą.
 
 .video {
     border-top: 4px #EC008E solid;
+    margin: 20px 15px;
 }
 
 address,
